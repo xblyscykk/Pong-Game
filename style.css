@@ -1,0 +1,32 @@
+body{
+    background-color:black;
+    text-align:center;
+}
+
+
+
+@font-face {
+    font-family: "Trickster";
+    src:
+      local("Trickster"),
+      url("start.ttf") format("truetype"),
+  }
+#board{
+
+    background-color:black;
+
+}
+
+
+
+
+#board{
+
+
+    border-style:solid;
+    border-color:white;
+}
+p1{
+
+    font-family: "Trickster";
+}
